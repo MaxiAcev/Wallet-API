@@ -10,8 +10,8 @@ Lenguaje: Java
 Framework Backend: Spring Boot 3
 Spring Data JPA: Para el mapeo ORM y consultas a la base de datos.
 Spring Web: Para construir los endpoints RESTful.
-Base de Datos: MySQL gestionado con **phpMyAdmin**.
-Herramientas de Lógica & Errores:
+Base de Datos: MySQL gestionado con phpMyAdmin.
+Herramientas de Lógica y Errores:
   * Uso de `BigDecimal` para evitar problemas de precisión en los montos de dinero.
   * Manejo global de excepciones con `@RestControllerAdvice` para devolver errores limpios en formato JSON (`400 Bad Request`).
   * Patrón DTO para desacoplar las entidades de la base de datos de los JSON de entrada.
