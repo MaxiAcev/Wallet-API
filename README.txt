@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Tecnologías que usé
+🚀 Tecnologías que usé
 
 Lenguaje: Java 
 Framework Backend: Spring Boot 3
